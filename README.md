@@ -47,8 +47,4 @@ AI-based health recommendations
 
 Enhanced voice interaction
 
-Contributors
-Adel Joby
-Adithya Balaji
-Antony Chacko
-Daniel Joy
+
